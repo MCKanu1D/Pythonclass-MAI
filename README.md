@@ -1,4 +1,4 @@
 # Pythonclass-MAI
-# KANU 
-# MELODY
-# M10-114BKN
+# КАНУ
+# МЕЛОДИ
+# M10-114БКИ
